@@ -1,4 +1,4 @@
-# Movie Dataset Cleaning and Visualization
+# Movie Dataset Cleaning and Analyzing
 This repository contains Python code for cleaning and visualizing a movies dataset using pandas library. The dataset is cleaned to remove any inconsistencies and missing values, and then visualizations are created to explore various aspects of the dataset.
 
 # Dataset
@@ -15,7 +15,7 @@ Removing duplicates: Remove any duplicate entries in the dataset to avoid redund
 
 Standardizing data: Standardize data formats and values to maintain consistency.
 
-# Visualization
+# Analyzing the Dataset
 After cleaning the dataset, various visualizations are created to analyze different aspects of the movie data. Some of the visualizations may include:
 
 # Distribution of movie ratings
